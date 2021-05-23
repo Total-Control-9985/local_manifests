@@ -26,5 +26,4 @@
 	<project path="vendor/samsung/dream2lte" name="Total-Control-9985/android_vendor_samsung_dream2lte" remote="github" revision="Havoc_11"/>
 	<project path="vendor/samsung/greatlte" name="Total-Control-9985/android_vendor_samsung_greatlte" remote="github" revision="Havoc_11"/>
 	<project path="hardware/samsung" name="Total-Control-9985/android_hardware_samsung" remote="github" revision="Havoc_11"/>
-	<project path="patches" name="Total-Control-9985/build_patches" remote="github" revision="Havoc_11"/>
 </manifest>
